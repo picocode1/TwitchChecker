@@ -1,5 +1,5 @@
 # TwitchChecker
-Twitch oauth token checker
+Twitch oauth token account checker
 
 How to use:
 
